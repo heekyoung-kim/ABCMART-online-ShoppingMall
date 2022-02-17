@@ -26,7 +26,6 @@
   * ojdbc11   
   * tomcat 10.0
  
-## 시스템 구성도
 
 ## ERD
 
@@ -41,6 +40,9 @@
 - **카테고리별 상품조회**
 - **상품 상세페이지 조회, 상품 수량 선택**
 - **리뷰/ QnA 등록 및 삭제, 리뷰좋아요 기능 구현.**
+![image](https://user-images.githubusercontent.com/95058221/154504613-8794b119-0d5f-4c3a-8a3a-e1b95f8eefb4.png)
+![image](https://user-images.githubusercontent.com/95058221/154504491-a3dd9318-46af-46f4-bcd7-2a80cf7b4c48.png)
+![image](https://user-images.githubusercontent.com/95058221/154504546-3298563a-6147-4700-ad37-cbad62eb6487.png)
 
 ## Author
 
