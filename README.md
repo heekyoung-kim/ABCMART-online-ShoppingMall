@@ -6,6 +6,9 @@
 
 <p align="center"><img src="https://images.velog.io/images/ggujunhee/post/463a5f18-3633-4b0c-a087-aa02beb2042e/localhost_8080_semi-project_main.jsp%20(1).png" width="70%" height="70%"></p>
 
+## Model1 구조 개발.
+<img src="https://user-images.githubusercontent.com/95058221/154834610-e30cebb0-fc12-47a1-b7a2-292d15c313c3.jpg" width="500" />
+
 ## 기술스택
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
