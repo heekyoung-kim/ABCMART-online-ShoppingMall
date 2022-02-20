@@ -1,10 +1,8 @@
 # ABCMART-online-ShoppingMall
 
-<p align="center"><img src="https://images.velog.io/images/ggujunhee/post/8c8e169f-4384-49a1-b251-9dfe90edc1bc/image.png" width="30%" height="30%">
-
 <h2 align="center">실제 ABCMART 온라인쇼핑몰을 벤치마킹한 프로젝트입니다.</h2> 
-
 <p align="center"><img src="https://images.velog.io/images/ggujunhee/post/463a5f18-3633-4b0c-a087-aa02beb2042e/localhost_8080_semi-project_main.jsp%20(1).png" width="70%" height="70%"></p>
+* 4인 팀프로젝트 업무분담 및 프로젝트 개요 (https://github.com/heekyoung-kim/ABCMART-online-ShoppingMall/files/8104553/_ABC._4.pdf)
 
 ## Model1 구조 개발.
 <img src="https://user-images.githubusercontent.com/95058221/154834610-e30cebb0-fc12-47a1-b7a2-292d15c313c3.jpg" width="500" />
